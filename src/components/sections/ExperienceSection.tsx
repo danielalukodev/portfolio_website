@@ -34,7 +34,7 @@ export default function ExperienceSection() {
           subtitle={exp.subtitle}
           badge={exp.badge}
         >
-          <ul className="list-disc list-inside space-y-1">
+          <ul className="list-disc list-inside space-y-2">
             {exp.points.map((point) => (
               <li key={point}>{point}</li>
             ))}
