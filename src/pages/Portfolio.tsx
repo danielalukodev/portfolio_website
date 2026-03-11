@@ -4,6 +4,7 @@ export default function Portfolio() {
       <div className="max-w-6xl mx-auto">
         <h1 className="text-2xl font-bold mb-6">Portfolio Dashboard</h1>
 
+        {/* TODO: improve spacing later */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
           <div className="space-y-6">
             {/* Left column - sections go here */}
