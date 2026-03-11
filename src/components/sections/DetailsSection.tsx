@@ -2,8 +2,7 @@ import SkillBadge from "../SkillBadge";
 
 const details = [
   { label: "23 years", icon: "👤" },
-  { label: "example@gmail.com", icon: "✉️", href: "mailto:example@gmail.com" },
-  { label: "+4477xxxxxxxxxx", icon: "📞" },
+  { label: "danielaluko.dev@gmail.com", icon: "✉️", href: "mailto:danielaluko.dev@gmail.com" },
   { label: "danieldev.uk", icon: "🌐", href: "https://danieldev.uk" },
   { label: "United Kingdom", icon: "🇬🇧" },
 ];

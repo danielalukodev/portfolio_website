@@ -1,4 +1,4 @@
-# Daniel Clarke Portfolio
+# Daniel Aluko Portfolio
 
 Simple personal portfolio dashboard built while learning React and TailwindCSS.
 
@@ -59,7 +59,7 @@ src/
 - **SkillsSection** – Frontend and design skills
 - **EducationSection** – Education history
 - **PortfolioSection** – Links to GitHub, Behance, etc.
-- **DetailsSection** – Contact details (email, phone, location)
+- **DetailsSection** – Contact details (email, location)
 
 ## Screenshot
 
@@ -71,10 +71,9 @@ This project is a learning project and will continue to be improved.
 
 ## Author
 
-**Daniel Clarke**  
-Junior Web Developer
+**Daniel Aluko**  
+Web Developer
 
 ## Contact
 
-- **Email:** [example@gmail.com](mailto:example@gmail.com)
-- **Phone:** +4477xxxxxxxxxx
+- **Email:** [danielaluko.dev@gmail.com](mailto:danielaluko.dev@gmail.com)

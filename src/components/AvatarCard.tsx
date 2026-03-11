@@ -5,7 +5,7 @@ export default function AvatarCard() {
     <div className="bg-[#1a1a1c] border border-[#2a2a2c] rounded-xl p-5 flex justify-center items-center min-h-[140px]">
       <img
         src={avatarImg}
-        alt="Daniel Clarke"
+        alt="Daniel Aluko"
         className="w-32 h-32 rounded-full object-cover"
       />
     </div>
