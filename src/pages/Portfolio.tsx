@@ -1,4 +1,5 @@
 import ProfileSection from "../components/sections/ProfileSection";
+import ExperienceSection from "../components/sections/ExperienceSection";
 
 export default function Portfolio() {
   return (
@@ -10,6 +11,7 @@ export default function Portfolio() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
           <div className="space-y-6">
             <ProfileSection />
+            <ExperienceSection />
           </div>
           <div className="space-y-6">
             {/* Right column - sections go here */}
