@@ -1,3 +1,5 @@
+import ProfileSection from "../components/sections/ProfileSection";
+
 export default function Portfolio() {
   return (
     <div className="min-h-screen bg-[#0f0f10] text-white p-6">
@@ -7,7 +9,7 @@ export default function Portfolio() {
         {/* TODO: improve spacing later */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
           <div className="space-y-6">
-            {/* Left column - sections go here */}
+            <ProfileSection />
           </div>
           <div className="space-y-6">
             {/* Right column - sections go here */}
