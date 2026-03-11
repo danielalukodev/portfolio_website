@@ -19,7 +19,7 @@ export default function SkillsSection() {
       {skillGroups.map((group) => (
         <div
           key={group.label}
-          className="bg-[#1a1a1c] border border-[#2a2a2c] rounded-xl p-5 flex flex-col sm:flex-row sm:items-center gap-3"
+          className="bg-[#1a1a1c] border border-[#2a2a2c] rounded-xl p-5 flex flex-col sm:flex-row sm:items-start gap-3"
         >
           <span className="text-sm font-medium text-gray-400 min-w-[100px]">
             {group.label}
