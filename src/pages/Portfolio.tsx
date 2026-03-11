@@ -1,5 +1,6 @@
 import ProfileSection from "../components/sections/ProfileSection";
 import ExperienceSection from "../components/sections/ExperienceSection";
+import SkillsSection from "../components/sections/SkillsSection";
 
 export default function Portfolio() {
   return (
@@ -12,6 +13,7 @@ export default function Portfolio() {
           <div className="space-y-6">
             <ProfileSection />
             <ExperienceSection />
+            <SkillsSection />
           </div>
           <div className="space-y-6">
             {/* Right column - sections go here */}
